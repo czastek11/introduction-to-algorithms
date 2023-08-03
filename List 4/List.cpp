@@ -1,4 +1,4 @@
-#include "Lista.h"
+#include "List.h"
 
 Lista::Lista()
 {
