@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Lista.h"
+#include "List.h"
 
 using namespace std;
 
